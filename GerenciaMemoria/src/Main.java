@@ -1,5 +1,5 @@
 /*
- * Autores: Rafael Ritter e Hugo Neto
+ * Autor: Rafael Ritter
  * Data: 26/06/2018
  * 
  * Este programa implementa um Gerenciador de Memória,
